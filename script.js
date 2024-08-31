@@ -1,5 +1,5 @@
-// import apiKey from './api-key.js';
-// let api = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD`;
+import apiKey from './api-key.js';
+let api = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD`;
 
 import currencies from "./currency-codes.js";
 
